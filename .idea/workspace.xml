@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="093de862-af98-4c71-a645-684226b781ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Chuaw/src/main/java/org/example/chuaw/dto/AccountRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chuaw/src/main/java/org/example/chuaw/dto/OrderRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chuaw/src/main/java/org/example/chuaw/dto/PaymentRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chuaw/src/main/java/org/example/chuaw/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chuaw/src/main/java/org/example/chuaw/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chuaw/src/main/java/org/example/chuaw/entity/UserAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session05/Ex1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session05/Ex2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session05/Ex3/src/main/java/org/example/ex3/Controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session05/Ex3/src/main/java/org/example/ex3/Repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session05/Ex3/src/main/java/org/example/ex3/enitity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session05/Ex4/src/main/java/org/example/ex4/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session05/Ex4/src/main/java/org/example/ex4/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session05/Ex4/src/main/java/org/example/ex4/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session05/Ex5/API_DOC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session05/Ex5/ProductAPI_JPA.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/COMPLETE_CHECKLIST.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/EXCEPTION_HANDLING_GUIDE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/FILE_SUMMARY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/FINAL_SUMMARY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/IMPLEMENTATION_COMPLETE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/QUICK_REFERENCE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/VERIFICATION_REPORT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/src/main/java/org/example/session06/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/src/main/java/org/example/session06/dto/ErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/src/main/java/org/example/session06/dto/StudentDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/src/main/java/org/example/session06/dto/ValidationErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/src/main/java/org/example/session06/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/src/main/java/org/example/session06/exception/DataConflictException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/src/main/java/org/example/session06/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/src/main/java/org/example/session06/exception/NotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/src/main/java/org/example/session06/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/src/main/java/org/example/session06/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session06/test-api.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex1/src/main/java/org/example/ex1/aspect/InventoryAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex1/src/main/java/org/example/ex1/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex1/src/main/java/org/example/ex1/dto/InventoryResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex1/src/main/java/org/example/ex1/dto/StockRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex1/src/main/java/org/example/ex1/entity/InventoryLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex1/src/main/java/org/example/ex1/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex1/src/main/java/org/example/ex1/repository/InventoryLogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex1/src/main/java/org/example/ex1/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex1/src/main/java/org/example/ex1/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex1/src/main/java/org/example/ex1/service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex2/src/main/java/org/example/ex2/Repository/ErrorLogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex2/src/main/java/org/example/ex2/Repository/TicketRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex2/src/main/java/org/example/ex2/aspect/PassengerSanitizationAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex2/src/main/java/org/example/ex2/aspect/ServiceFailureLoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex2/src/main/java/org/example/ex2/aspect/TicketCancellationRuleAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex2/src/main/java/org/example/ex2/controller/TicketController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex2/src/main/java/org/example/ex2/phan_tich.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex2_Session9/src/main/java/org/example/ex2_session9/phan_tich.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex2_Session9/src/main/java/org/example/ex2_session9/service/DemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex3/src/main/java/org/example/ex3/phan_tich.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex4_Session9/src/main/java/org/example/ex4_session9/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex4_Session9/src/main/java/org/example/ex4_session9/phan_tich.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex4_Session9/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex5_Session9/src/main/java/org/example/ex5_session9/Aspect/SystemFailureMonitorAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex5_Session9/src/main/java/org/example/ex5_session9/Service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Ex5_Session9/src/main/java/org/example/ex5_session9/phan_tich.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Session10/src/main/java/org/example/session10/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Session10/src/main/java/org/example/session10/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session08/Session10/src/main/java/org/example/session10/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex2/src/main/java/org/example/ex2/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex2/src/main/java/org/example/ex2/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex2/src/main/java/org/example/ex2/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex2/src/main/java/org/example/ex2/dto/AccountRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex2/src/main/java/org/example/ex2/dto/OrderRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex2/src/main/java/org/example/ex2/dto/PaymentRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex2/src/main/java/org/example/ex2/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex2/src/main/java/org/example/ex2/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex2/src/main/java/org/example/ex2/entity/UserAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex2/src/main/java/org/example/ex2/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex2/src/main/java/org/example/ex2/repository/UserAccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex2/src/main/java/org/example/ex2/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex2/src/main/java/org/example/ex2/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex2/src/main/java/org/example/ex2/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex2/src/main/java/org/example/ex2/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex4/src/main/java/org/example/ex4/controller/PromotionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex4/src/main/java/org/example/ex4/dto/ApplyPromotionRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex4/src/main/java/org/example/ex4/dto/ErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex4/src/main/java/org/example/ex4/dto/PromotionRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex4/src/main/java/org/example/ex4/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex4/src/main/java/org/example/ex4/entity/Promotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex4/src/main/java/org/example/ex4/exception/BusinessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex4/src/main/java/org/example/ex4/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex4/src/main/java/org/example/ex4/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex4/src/main/java/org/example/ex4/repository/PromotionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session10/Ex4/src/main/java/org/example/ex4/service/PromotionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1/src/main/java/org/example/ex1/aspect/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1/src/main/java/org/example/ex1/book.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1/src/main/java/org/example/ex1/controller/bookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1/src/main/java/org/example/ex1/dto/BookCreateDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1/src/main/java/org/example/ex1/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1/src/main/java/org/example/ex1/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1/src/main/java/org/example/ex1/repositoty/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1/src/main/java/org/example/ex1/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1111/src/main/java/org/example/ex1111/aspect/WhiteLogSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1111/src/main/java/org/example/ex1111/controller/materialController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1111/src/main/java/org/example/ex1111/dto/materialCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1111/src/main/java/org/example/ex1111/dto/materialUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1111/src/main/java/org/example/ex1111/entity/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1111/src/main/java/org/example/ex1111/entity/StatusType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1111/src/main/java/org/example/ex1111/exeception/GlobalException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1111/src/main/java/org/example/ex1111/exeception/NotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1111/src/main/java/org/example/ex1111/repository/materialRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex1111/src/main/java/org/example/ex1111/service/materialService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex2/src/main/java/org/example/ex2/controller/CourseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex2/src/main/java/org/example/ex2/dto/CourseCreateDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex2/src/main/java/org/example/ex2/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex2/src/main/java/org/example/ex2/repository/CourseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session12/Ex2/src/main/java/org/example/ex2/service/CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/BTTH/src/main/java/org/example/btth/Security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/BTTH/src/main/java/org/example/btth/controller/PrescriptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/BTTH/src/main/java/org/example/btth/controller/PublicController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/BTTH/src/main/java/org/example/btth/controller/RecordController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/BTTH/src/main/java/org/example/btth/entity/Authority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/BTTH/src/main/java/org/example/btth/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/BTTH/src/main/java/org/example/btth/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/BTTH/src/main/java/org/example/btth/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/BTTH/src/main/java/org/example/btth/service/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ex1/src/main/java/org/example/ex1/MovieTicketJwtExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ex1/src/main/java/org/example/ex1/phan_tich.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ex2/src/main/java/org/example/ex2/JwtAuthentication/JwtAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ex2/src/main/java/org/example/ex2/JwtAuthentication/JwtTokenProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ex2/src/main/java/org/example/ex2/phan_tich.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ex3/src/main/java/org/example/ex3/controller/ProjectManagementController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ex3/src/main/java/org/example/ex3/phan_tich.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ex4/src/main/java/org/example/ex5/Security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ex4/src/main/java/org/example/ex5/Security/UserSecurityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ex4/src/main/java/org/example/ex5/controller/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ex4/src/main/java/org/example/ex5/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ex4/src/main/java/org/example/ex5/phan_tich.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ex4/src/main/java/org/example/ex5/service/GameSecurityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ktra/src/test/java/org/example/ktra/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ktra/src/test/java/org/example/ktra/dto/JwtRes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ktra/src/test/java/org/example/ktra/dto/TokenRefreshRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ktra/src/test/java/org/example/ktra/dto/TokenRefreshResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ktra/src/test/java/org/example/ktra/entity/RefreshToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ktra/src/test/java/org/example/ktra/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ktra/src/test/java/org/example/ktra/exception/TokenRefreshException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ktra/src/test/java/org/example/ktra/repository/RefreshTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ktra/src/test/java/org/example/ktra/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/Ktra/src/test/java/org/example/ktra/service/RefreshTokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/mini/src/main/java/org/example/mini/Service/DoctorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/mini/src/main/java/org/example/mini/entity/Appointment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/mini/src/main/java/org/example/mini/entity/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/mini/src/main/java/org/example/mini/entity/Medicine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/mini/src/main/java/org/example/mini/entity/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/mini/src/main/java/org/example/mini/entity/Prescription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/mini/src/main/java/org/example/mini/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/mini/src/main/java/org/example/mini/instance/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/mini/src/main/java/org/example/mini/repository/AppointmentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/mini/src/main/java/org/example/mini/repository/DoctorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/mini/src/main/java/org/example/mini/repository/MedicineRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/mini/src/main/java/org/example/mini/repository/PatientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/mini/src/main/java/org/example/mini/repository/PrescriptionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_WS/Session17/mini/src/main/java/org/example/mini/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session07/Ex1/src/main/java/org/example/ex1/service/FlashSaleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session07/Ex2/phan_tich.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session07/Ex2/src/main/java/org/example/ex2/service/DemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/session19_b5/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/session19_b5/dto/AuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/session19_b5/dto/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/session19_b5/dto/RefreshRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/session19_b5/dto/TokenResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/session19_b5/entity/RevokedToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/session19_b5/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/session19_b5/phan_tich.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/session19_b5/repository/RevokedTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/session19_b5/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/session19_b5/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/session19_b5/service/JwtService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3EqhmLiWbi2vWNLP9PnyJNhH1St" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Session19B5Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Session19_b5.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.session19_b5.Session19B5Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.29188.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.29188.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="093de862-af98-4c71-a645-684226b781ef" name="Changes" comment="" />
+      <created>1780912168536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780912168536</updated>
+      <workItem from="1780912169648" duration="2016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
